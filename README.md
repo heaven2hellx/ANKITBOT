@@ -1,1 +1,5 @@
-<summary> • ɢᴏᴅ-ᴏᴘ • </summary>
+<details>
+
+   <summary> • ɢᴏᴅ-ᴏᴘ • </summary>
+
+</details>
