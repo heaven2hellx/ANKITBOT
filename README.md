@@ -1,5 +1,5 @@
 <details>
 
-   <summary> • ɢᴏᴅ-ᴏᴘ • </summary>
+   <summary> • ɢᴏᴅ-ᴏᴘ ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ • </summary>
 
 </details>
