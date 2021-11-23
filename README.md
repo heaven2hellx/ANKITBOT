@@ -1,1 +1,1 @@
-<summary> •  • </summary>
+<summary> • ɢᴏᴅ-ᴏᴘ • </summary>
