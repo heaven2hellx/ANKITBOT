@@ -34,6 +34,5 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<a hrsf= https://heroku.com/deploy?template=https://github.com/heaven2hellx/ANKITBOT" /></a></div>
-
+(https://telegra.ph/file/ced9cbf4b706b3ec6b89b.jpg)](https://heroku.com/deploy?template=https://github.com/heaven2hellx/ANKITBOT)
 </details>
